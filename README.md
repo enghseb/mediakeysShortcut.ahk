@@ -1,15 +1,15 @@
 ## Media keys shortcuts for AHK/AutoHotkey
 
-- ctrl + left:   **Next**
-- ctrl + right:  **Previous**
-- ctrl + up:     **Volume up**
-- ctrl + down:   **Volume down**
-- ctrl + space:  **Play/Pause**
+- <kbd>ctrl</kbd> + <kbd>left</kbd> : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Next**
+- <kbd>ctrl</kbd> + <kbd>right</kbd> : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Previous**
+- <kbd>ctrl</kbd> + <kbd>up</kbd> : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Volume up**
+- <kbd>ctrl</kbd> + <kbd>down</kbd> : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Volume down**
+- <kbd>ctrl</kbd> + <kbd>space</kbd> : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Play/Pause**
 
 #### Other shortcuts:
-- ^ for ctrl
-- ! for alt
-- + for shift
+- ^ for <kbd>ctrl</kbd>
+- ! for <kbd>alt</kbd>
+- + for <kbd>shift</kbd>
 
 #### Examples
 ```
