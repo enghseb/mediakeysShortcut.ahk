@@ -26,7 +26,7 @@ Left::Send {Media_Prev
 
 For full list of keys: https://www.autohotkey.com/docs/Hotkeys.htm
 
-### To get it working on startup
+### To get it running on startup
 1. <kbd>windows</kbd> + <kbd>r</kbd> (or open up Run)
 2. shell:startup
 3. Move .ahk file into folder
