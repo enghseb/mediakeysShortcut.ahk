@@ -9,13 +9,31 @@
 #### Other shortcuts:
 - ^ for ctrl
 - ! for alt
-- ^ for shift
+- + for shift
+
+#### Examples
+```
+Left::Send {Media_Prev
+
+; Previous song by pressing left arrow key
+```
+
+```
+!^Left::Send	{Media_Prev} 
+
+; Next song by pressing alt + ctrl + left key
+```
+
+
+
 
 For full list of keys: https://www.autohotkey.com/docs/Hotkeys.htm
 
  <hr />
 
-```#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+### My script
+```
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
@@ -26,4 +44,5 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ^Right::Send	{Media_Next}
 ^Up::Send	{Volume_Up}
 ^Down::Send	{Volume_Down}
-^Space::Send	{Media_Play_Pause}```
+^Space::Send	{Media_Play_Pause}
+```
