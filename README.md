@@ -1,5 +1,5 @@
 ## Media keys shortcuts for AHK/AutoHotkey
-This is a simple script that let you use keyboard shortcuts, to access multimedia key functionality. Far from every keyboard have these keys. With this script they are not necessary, instead, you can access them through keyboard shortcuts of your choice. For the script to run, you need to have the application Autohotkey installed. You can find and download it for free at: https://www.autohotkey.com/
+This is a simple script that let you use keyboard shortcuts, to access multimedia key functionality. Far from every keyboard have these keys. With this script they are not necessary, you instead access them through keyboard shortcuts of your choice. For the script to run, you need to have the Autohotkey installed. You can download it for free at: https://www.autohotkey.com/
 
 
 - <kbd>ctrl</kbd> + <kbd>left</kbd> : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Next**
